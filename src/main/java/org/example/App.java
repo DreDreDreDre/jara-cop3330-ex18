@@ -60,5 +60,6 @@ public class App
                 System.out.println("You must enter a C or an F.");
             }
         }
+        sc.close();
     }
 }
